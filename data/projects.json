@@ -5358,13 +5358,14 @@
     {
       "name": "Verdict-open-jev",
       "repo": "Heman10x-NGU/Verdict-open-jev",
-      "site": null,
+      "site": "https://huggingface.co/heman10x/rlcd-modernbert-151m",
       "description": "Non-autoregressive decision engine on ModernBERT (151M) with calibrated uncertainty (RLCD), TypeSafe AI Jev benchmark audit, and in-browser WebGPU playground",
       "category": "research",
       "language": "Python",
       "stars": 3,
       "added": "2026-09-18",
       "created": "2026-09-17",
+      "post": "https://x.com/heman10x/status/2100836659533336676",
       "pushed": "2026-09-18"
     },
     {
