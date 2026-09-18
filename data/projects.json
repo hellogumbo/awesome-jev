@@ -5904,6 +5904,18 @@
       "stars": 1,
       "added": "2026-09-18",
       "pushed": "2026-09-17"
+    },
+    {
+      "name": "awesome-jev-typesafe",
+      "repo": "valentynkit/awesome-jev-typesafe",
+      "site": null,
+      "description": "CC0, awesome-lint clean list of Jev projects sorted by what you would install, with a short know-before-you-build section on the limits.",
+      "category": "lists",
+      "language": null,
+      "stars": 7,
+      "added": "2026-09-18",
+      "created": "2026-09-18",
+      "pushed": "2026-09-18"
     }
   ]
 }
