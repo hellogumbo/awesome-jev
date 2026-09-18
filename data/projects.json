@@ -5904,6 +5904,16 @@
       "stars": 1,
       "added": "2026-09-18",
       "pushed": "2026-09-17"
+    },
+    {
+      "name": "jev-pref",
+      "repo": "doeixd/jev-pref",
+      "site": null,
+      "description": "Turn the preferences in your AGENTS.md into a fast AI linter: define project-specific review rules in jev-pref.json, and Jev checks code changes (hunks, staged files, PRs) against them and feeds findings back to your coding agent.",
+      "category": "agents",
+      "language": "JavaScript",
+      "stars": 0,
+      "added": "2026-09-18"
     }
   ]
 }
