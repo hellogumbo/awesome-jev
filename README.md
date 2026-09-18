@@ -8,7 +8,7 @@ Jev takes a state plus a set of typed questions (Choice, Score, Noul) and return
 
 Not affiliated with TypeSafe AI. To add a project, open a pull request or [file an issue](https://github.com/hellogumbo/awesome-jev/issues/new?template=submit-project.yml). See [CONTRIBUTING.md](CONTRIBUTING.md).
 
-410 entries · last refreshed 2026-09-17
+411 entries · last refreshed 2026-09-17
 
 ## Contents
 
@@ -460,6 +460,7 @@ Coverage, write-ups, and X threads.
 - [Jev gomoku harness](https://x.com/VacekvVita/status/2100609341145465325) - Local tactics shrink 225 moves to about 40 candidates, then Jev picks among tiered options.
 - [Jev in 34 seconds](https://x.com/dwhitedesign/status/2100368024649769384) - Short video explainer of how Jev's typed-decision loop works.
 - [Jev in a Grammarly-style Mac app](https://x.com/nielsmouthaan/status/2100543809465577665) - Desktop writing app using Jev for fast structured writing judgments.
+- [Jev judge call vs dimension scores](https://agentjournal.dev/blog/llm-judge-vs-feature-extraction/) - One direct Jev question per row against 12–14 Jev-scored dimensions with locally fitted weights on three classification tasks: 5,477 test rows, 25,174 Jev calls, $1.43. Decomposition wins on Japanese NLI (0.9076 vs 0.8373) but flags about 25× more hard benign rows as attacks (37.2% vs 1.5%).
 - [Jev plays Minecraft (r/accelerate)](https://reddit.com/r/accelerate/comments/1whk9oy/new_typesafe_ai_jev_model_playing_minecraft_wip/) - Work-in-progress demo of Jev driving Minecraft, including fleeing zombies at night.
 - [Jev Typewriter launch](https://x.com/stevekrouse/status/2100287368221659289) - Steve Krouse's playable 16-judgment demo and video.
 - [Jev vs Mistral and Gemini for event validation](https://nearhere.events/blog/typesafe-jev-mistral-gemini-event-validation) - Head-to-head test at validating local event listings, with cost and latency.

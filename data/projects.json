@@ -4617,6 +4617,17 @@
       "stars": 0,
       "added": "2026-09-17",
       "created": "2026-09-17"
+    },
+    {
+      "name": "Jev judge call vs dimension scores",
+      "repo": null,
+      "site": null,
+      "description": "One direct Jev question per row against 12–14 Jev-scored dimensions with locally fitted weights on three classification tasks: 5,477 test rows, 25,174 Jev calls, $1.43. Decomposition wins on Japanese NLI (0.9076 vs 0.8373) but flags about 25× more hard benign rows as attacks (37.2% vs 1.5%).",
+      "category": "articles",
+      "language": null,
+      "stars": 0,
+      "added": "2026-09-18",
+      "url": "https://agentjournal.dev/blog/llm-judge-vs-feature-extraction/"
     }
   ]
 }
