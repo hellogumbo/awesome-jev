@@ -5904,6 +5904,16 @@
       "stars": 1,
       "added": "2026-09-18",
       "pushed": "2026-09-17"
+    },
+    {
+      "name": "Supercov",
+      "repo": "supercorp-ai/supercov",
+      "site": "https://supercov.com",
+      "description": "Code quality and test coverage for coding agents: Jev scores each source file so the agent knows what to fix first.",
+      "category": "agents",
+      "language": "Rust",
+      "stars": 0,
+      "added": "2026-09-19"
     }
   ]
 }
