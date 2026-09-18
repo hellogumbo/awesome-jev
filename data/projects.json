@@ -5904,6 +5904,17 @@
       "stars": 1,
       "added": "2026-09-18",
       "pushed": "2026-09-17"
+    },
+    {
+      "name": "Verdict (Open-jev) launch thread",
+      "repo": null,
+      "site": null,
+      "url": "https://x.com/heman10x/status/2100836659533336676",
+      "description": "Hemant Kumar on his 151M ModernBERT reproduction: 0.83% adaptive calibration error, 3.0% of predictions flip when the option list is reversed, 35.6ms on CPU, with the failed use cases reported alongside the wins.",
+      "category": "articles",
+      "language": null,
+      "stars": 0,
+      "added": "2026-09-19"
     }
   ]
 }
