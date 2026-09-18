@@ -4945,6 +4945,16 @@
       "added": "2026-09-17",
       "created": "2026-09-17",
       "pushed": "2026-09-18"
+    },
+    {
+      "name": "is-malicious",
+      "repo": "luantak/is-malicious",
+      "site": null,
+      "description": "Scans a codebase for covert, deceptive, or data-stealing behavior with Jev, then reports suspicious files and line ranges before the user runs it.",
+      "category": "agents",
+      "language": "TypeScript",
+      "stars": 0,
+      "added": "2026-09-18"
     }
   ]
 }
