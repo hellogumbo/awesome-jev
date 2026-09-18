@@ -5904,6 +5904,16 @@
       "stars": 1,
       "added": "2026-09-18",
       "pushed": "2026-09-17"
+    },
+    {
+      "name": "jevql",
+      "repo": "kylemclaren/jevql",
+      "site": "https://jevql.fly.dev",
+      "description": "psql-shaped CLI and Go/TypeScript/Python SDKs that add jev(), jev_prob, jev_choice, and jev_score to queries against vanilla Postgres with no extension: plain SQL runs on the server, surviving rows are judged by Jev in batches, and the client applies the filter, sort, or group.",
+      "category": "integrations",
+      "language": "Go",
+      "stars": 0,
+      "added": "2026-09-18"
     }
   ]
 }
