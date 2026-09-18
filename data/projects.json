@@ -809,6 +809,17 @@
       "pushed": "2026-09-16"
     },
     {
+      "name": "LitJev",
+      "repo": "zhengxuyu/litjev",
+      "site": null,
+      "description": "A reproduction of Jev that turns any Qwen model into a fast decision model, serving the same /v1/systemone schema (Choice, Score, Noul) with no training and no generated answer text.",
+      "category": "research",
+      "language": "Python",
+      "stars": 0,
+      "added": "2026-09-18",
+      "post": "https://x.com/yuzxfred/status/2100652136878981337"
+    },
+    {
       "name": "typesafe-skill-router",
       "repo": "DECRUX9812/typesafe-skill-router",
       "site": null,
