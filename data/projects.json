@@ -6780,6 +6780,56 @@
       "added": "2026-09-19",
       "created": "2026-09-19",
       "pushed": "2026-09-19"
+    },
+    {
+      "name": "jev-belay",
+      "repo": "valentynkit/jev-belay",
+      "site": null,
+      "description": "Claude Code Stop hook that blocks an unverified done: reads the transcript for evidence, asks Jev once, fails open on everything else.",
+      "category": "agents",
+      "language": "JavaScript",
+      "stars": 0,
+      "added": "2026-09-19"
+    },
+    {
+      "name": "jev-commit",
+      "repo": "valentynkit/jev-commit",
+      "site": null,
+      "description": "Pre-commit hook: one Jev call judges whether your commit message matches the staged diff, plus debug leftovers, unmentioned work, and a credential check.",
+      "category": "agents",
+      "language": "Python",
+      "stars": 0,
+      "added": "2026-09-19"
+    },
+    {
+      "name": "jev.nvim",
+      "repo": "valentynkit/jev.nvim",
+      "site": null,
+      "description": "Neovim plugin that asks the buffer a plain-language question: Treesitter splits it into functions, Jev scores each one, and answers land in quickfix ranked by probability.",
+      "category": "apps",
+      "language": "Lua",
+      "stars": 0,
+      "added": "2026-09-19"
+    },
+    {
+      "name": "jev-skip",
+      "repo": "valentynkit/jev-skip",
+      "site": null,
+      "description": "Browser extension that reads the YouTube caption track and paints a per-segment sponsor probability on the seek bar before the intro ends, with no crowd database.",
+      "category": "browser",
+      "language": "TypeScript",
+      "stars": 0,
+      "added": "2026-09-19"
+    },
+    {
+      "name": "jev-plays-pokemon-red",
+      "repo": "valentynkit/jev-plays-pokemon-red",
+      "site": null,
+      "description": "Pokemon Red on PyBoy where code owns the route and the arithmetic, Jev only picks at branches, and every battle turn's faint prediction is scored by Brier against RAM state.",
+      "category": "games",
+      "language": "Python",
+      "stars": 0,
+      "added": "2026-09-19"
     }
   ]
 }
