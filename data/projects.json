@@ -6122,10 +6122,10 @@
       "pushed": "2026-09-18"
     },
     {
-      "name": "jev-social",
+      "name": "Jev Social",
       "repo": "socai-io/jev-social",
       "site": "https://socai.io/",
-      "description": "Jev-powered social media research through the socai CLI",
+      "description": "Local Instagram, TikTok, and LinkedIn research where Jev chooses bounded socai browser operations and streams captured evidence into cited reports.",
       "category": "browser",
       "language": "JavaScript",
       "stars": 5,
