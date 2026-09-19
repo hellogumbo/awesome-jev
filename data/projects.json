@@ -6785,7 +6785,7 @@
       "name": "jev-page-verdict",
       "repo": "torumitsutake/jev-page-verdict",
       "site": null,
-      "description": "Chrome extension that asks Jev whether the page you are on is selling something or reporting first-hand experience, and colour-codes Google results with the same verdict.",
+      "description": "Chrome extension that asks Jev whether the page you are on is selling something or reporting first-hand experience, and marks Google results with verdicts it already has or snippet-only estimates, leaving low-confidence ones undecided.",
       "category": "browser",
       "language": "JavaScript",
       "stars": 0,
