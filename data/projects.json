@@ -6780,6 +6780,16 @@
       "added": "2026-09-19",
       "created": "2026-09-19",
       "pushed": "2026-09-19"
+    },
+    {
+      "name": "JevForge",
+      "repo": "zwliJay/jev-forge",
+      "site": "https://jev-forge.vercel.app",
+      "description": "End-to-end Jev-style structured-decision stack for auditable data construction, Qwen3.5-0.8B training, fixed Mind2Web and OOD evaluation, preliminary RLCD, local serving, and interactive replay.",
+      "category": "research",
+      "language": "Python",
+      "stars": 0,
+      "added": "2026-09-20"
     }
   ]
 }
