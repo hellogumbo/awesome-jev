@@ -6780,6 +6780,16 @@
       "added": "2026-09-19",
       "created": "2026-09-19",
       "pushed": "2026-09-19"
+    },
+    {
+      "name": "PlayJev",
+      "repo": "OmniJev/PlayJev",
+      "site": "https://omnijev.github.io/PlayJev/",
+      "description": "Play ten browser games from the screen with a 0.8B open model that returns a probability over the game's legal moves in one forward pass, no text generated.",
+      "category": "games",
+      "language": "Python",
+      "stars": 0,
+      "added": "2026-09-19"
     }
   ]
 }
