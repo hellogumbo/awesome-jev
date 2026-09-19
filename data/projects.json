@@ -6780,6 +6780,16 @@
       "added": "2026-09-19",
       "created": "2026-09-19",
       "pushed": "2026-09-19"
+    },
+    {
+      "name": "jev-canvas",
+      "repo": "gaborishka/jev-canvas",
+      "site": null,
+      "description": "Draw on a tldraw canvas with your voice and a webcam-tracked finger; Jev decides action, target and place on every partial transcript.",
+      "category": "demos",
+      "language": "JavaScript",
+      "stars": 0,
+      "added": "2026-09-19"
     }
   ]
 }
