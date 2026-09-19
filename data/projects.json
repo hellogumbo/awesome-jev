@@ -6780,6 +6780,16 @@
       "added": "2026-09-19",
       "created": "2026-09-19",
       "pushed": "2026-09-19"
+    },
+    {
+      "name": "Jev Web Analyzer",
+      "repo": "replynodes/jev-web-analyzer",
+      "site": "https://replynodes.com/jev-web-analyzer/",
+      "description": "Analyzes a public SaaS landing page as clean Markdown and asks Jev ten bounded Choice questions about what a first-time visitor is likely to understand.",
+      "category": "demos",
+      "language": "TypeScript",
+      "stars": 0,
+      "added": "2026-09-19"
     }
   ]
 }
