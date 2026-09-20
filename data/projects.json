@@ -6780,6 +6780,16 @@
       "added": "2026-09-19",
       "created": "2026-09-19",
       "pushed": "2026-09-19"
+    },
+    {
+      "name": "jev-logtriage",
+      "repo": "jyatesdotdev/jev-logtriage",
+      "site": "https://pypi.org/project/jev-logtriage/",
+      "description": "Jev scores collapsed log batches; code maps answers to suppress, watch, review, notify, or page. Nothing is executed.",
+      "category": "apps",
+      "language": "Python",
+      "stars": 0,
+      "added": "2026-09-20"
     }
   ]
 }
