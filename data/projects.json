@@ -6518,6 +6518,16 @@
       "pushed": "2026-09-18"
     },
     {
+      "name": "jev-align (Sutro)",
+      "repo": "sutro-sh/jev-align",
+      "site": "https://pypi.org/project/jev-align/",
+      "description": "Active-learning CLI that uses human labels and GEPA to improve Jev decision definitions",
+      "category": "apps",
+      "language": "Python",
+      "stars": 0,
+      "added": "2026-09-19"
+    },
+    {
       "name": "jev-align",
       "repo": "caiovicentino/jev-align",
       "site": null,
