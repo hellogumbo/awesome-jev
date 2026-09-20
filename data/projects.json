@@ -7959,6 +7959,16 @@
       "added": "2026-09-20",
       "created": "2026-09-19",
       "pushed": "2026-09-20"
+    },
+    {
+      "name": "slop-grader",
+      "repo": "lukstei/slop-grader",
+      "site": "https://www.npmjs.com/package/@lukstei/slop-grader",
+      "description": "Rule-based slop grader for text files powered by Jev: evaluates markdown against customizable rulesets, outputting violation flags and scores for an AI agent to auto-fix.",
+      "category": "agents",
+      "language": "TypeScript",
+      "stars": 0,
+      "added": "2026-09-20"
     }
   ]
 }
