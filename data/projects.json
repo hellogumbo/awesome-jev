@@ -7959,6 +7959,16 @@
       "added": "2026-09-20",
       "created": "2026-09-19",
       "pushed": "2026-09-20"
+    },
+    {
+      "name": "jev-firewall",
+      "repo": "Koushik890/jev-firewall",
+      "site": "https://www.npmjs.com/package/jev-firewall",
+      "description": "Real-time firewall for AI coding agents: a PreToolUse hook checks every Claude Code / Codex tool call with deterministic shell-aware rules, and unmatched actions go to Jev for a calibrated allow/ask/block that fails closed.",
+      "category": "agents",
+      "language": "TypeScript",
+      "stars": 0,
+      "added": "2026-09-21"
     }
   ]
 }
