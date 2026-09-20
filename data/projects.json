@@ -6780,6 +6780,16 @@
       "added": "2026-09-19",
       "created": "2026-09-19",
       "pushed": "2026-09-19"
+    },
+    {
+      "name": "hush",
+      "repo": "emreozyoruk/hush",
+      "site": null,
+      "description": "GitHub Action for issue triage that abstains: label, spam, needs-info and duplicate in one call, each applied only above a threshold you set, and nothing at all below it.",
+      "category": "integrations",
+      "language": "JavaScript",
+      "stars": 0,
+      "added": "2026-09-20"
     }
   ]
 }
