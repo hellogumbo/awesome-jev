@@ -8,7 +8,7 @@ Jev takes a state plus a set of typed questions (Choice, Score, Noul) and return
 
 Not affiliated with TypeSafe AI. To add a project, open a pull request or [file an issue](https://github.com/hellogumbo/awesome-jev/issues/new?template=submit-project.yml). See [CONTRIBUTING.md](CONTRIBUTING.md).
 
-561 entries · last refreshed 2026-09-19
+562 entries · last refreshed 2026-09-19
 
 ## Contents
 
@@ -587,6 +587,7 @@ Other curated lists.
 - [awesome-jev-typesafe](https://github.com/valentynkit/awesome-jev-typesafe) - Typed decisions with TypeSafe's Jev, the first System One model.
 - [awesome-jev (kraayenjon)](https://github.com/kraayenjon/awesome-jev) ([site](https://madewithjev.com)) - A curated list of Jev use cases, projects, SDKs, and resources. Jev is TypeSafe AI's System One model for fast, typed decisions in software — Choice, Score, and Noul with calibrated probabilities.
 - [awesome-jev-zh](https://github.com/yzfly/awesome-jev-zh) ([site](https://code.jiangshu.ai/awesome-jev-zh/)) - Jev / TypeSafe System One 中文精选列表：官方资料、SDK、爆款应用、Agent 工具、开源复现与独立评测，附中文上手指南，每日自动收录 GitHub 热门项目。
+- [awesome-jev (MrJev)](https://github.com/MrJev/awesome-jev) ([site](https://mrjev.com/projects/)) - Selective list behind a 10-star bar, with hands-on reviews at mrjev.com recording what each tool sends and where.
 
 ## Articles & threads
 

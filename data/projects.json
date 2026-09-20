@@ -6110,6 +6110,16 @@
       "pushed": "2026-09-19"
     },
     {
+      "name": "awesome-jev (MrJev)",
+      "repo": "MrJev/awesome-jev",
+      "site": "https://mrjev.com/projects/",
+      "description": "Selective list behind a 10-star bar, with hands-on reviews at mrjev.com recording what each tool sends and where.",
+      "category": "lists",
+      "language": "Python",
+      "stars": 3,
+      "added": "2026-09-20"
+    },
+    {
       "name": "typesafe-sdk-go (atharvamhaske)",
       "repo": "atharvamhaske/typesafe-sdk-go",
       "site": null,
