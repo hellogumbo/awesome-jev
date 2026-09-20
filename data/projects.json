@@ -7959,6 +7959,16 @@
       "added": "2026-09-20",
       "created": "2026-09-19",
       "pushed": "2026-09-20"
+    },
+    {
+      "name": "jselect",
+      "repo": "keltokhy/jselect",
+      "site": null,
+      "description": "Selects source-linked evidence within a token budget using Jev Noul relevance judgments and local diversity-aware selection.",
+      "category": "apps",
+      "language": "Python",
+      "stars": 0,
+      "added": "2026-09-20"
     }
   ]
 }
