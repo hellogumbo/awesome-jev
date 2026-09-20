@@ -7959,6 +7959,16 @@
       "added": "2026-09-20",
       "created": "2026-09-19",
       "pushed": "2026-09-20"
+    },
+    {
+      "name": "nlgrep",
+      "repo": "YehuiTang0316/jev-nlgrep",
+      "site": null,
+      "description": "TypeScript CLI that finds code, docs, logs, and text by natural-language conditions using Jev Noul judgments, with probability thresholds, source lines, and cached results.",
+      "category": "apps",
+      "language": "TypeScript",
+      "stars": 0,
+      "added": "2026-09-20"
     }
   ]
 }
