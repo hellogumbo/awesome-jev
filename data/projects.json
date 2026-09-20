@@ -6780,6 +6780,16 @@
       "added": "2026-09-19",
       "created": "2026-09-19",
       "pushed": "2026-09-19"
+    },
+    {
+      "name": "jev-A-share-trader",
+      "repo": "Eric-Zhou-0302/jev-A-share-trader",
+      "site": null,
+      "description": "Local A-share technical analysis using Jev Choice and Noul questions to assess direction and volatility across two horizons, with evidence for Buy/Hold/Sell assessments and no order execution.",
+      "category": "apps",
+      "language": "Python",
+      "stars": 0,
+      "added": "2026-09-20"
     }
   ]
 }
