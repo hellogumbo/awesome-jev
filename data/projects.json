@@ -906,6 +906,16 @@
       "pushed": "2026-09-17"
     },
     {
+      "name": "jev-judge",
+      "repo": "ohmyjiro/jev-judge",
+      "site": null,
+      "description": "Dependency-free CLI and Codex skill that send local state to Jev for batched typed judgments and return answers without echoing the state.",
+      "category": "agents",
+      "language": "Python",
+      "stars": 0,
+      "added": "2026-09-21"
+    },
+    {
       "name": "jev_stock",
       "repo": "sosopop/jev_stock",
       "site": null,
