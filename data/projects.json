@@ -9688,6 +9688,16 @@
       "added": "2026-09-21",
       "created": "2026-09-18",
       "pushed": "2026-09-21"
+    },
+    {
+      "name": "Jevonian",
+      "repo": "xinyao27/jevonian",
+      "site": "https://www.npmjs.com/package/jevonian",
+      "description": "Local OpenAI-compatible proxy that sits between a coding agent and its providers and asks Jev, per turn, which routed model and thinking level should serve it.",
+      "category": "agents",
+      "language": "TypeScript",
+      "stars": 0,
+      "added": "2026-09-21"
     }
   ]
 }
