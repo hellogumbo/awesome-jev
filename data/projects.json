@@ -8041,6 +8041,16 @@
       "added": "2026-09-20"
     },
     {
+      "name": "minojev",
+      "repo": "zeredy879/minojev",
+      "site": "https://zeredy879.github.io/minojev/",
+      "description": "Independent Jev-style replica with head training: a frozen Qwen3-1.7B backbone plus a small trained decision head returns calibrated Choice/Boolean/Score distributions in one forward pass, with committed datasets and a same-backbone generation benchmark.",
+      "category": "research",
+      "language": "Python",
+      "stars": 0,
+      "added": "2026-09-21"
+    },
+    {
       "name": "DGP (Decision Graph Protocol)",
       "repo": "numerous-com/dgp",
       "site": null,
