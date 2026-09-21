@@ -4097,6 +4097,16 @@
       "added": "2026-09-17"
     },
     {
+      "name": "Jevtown",
+      "repo": "gaborishka/jevtown",
+      "site": "https://jevtown.ivanhabor.com",
+      "description": "A town of 10,000 computed personas reads your post, listing, product or headline in waves: Jev scores the text to pick the first 600 readers and returns each persona's reaction, and the text travels further only while more readers are glad than annoyed.",
+      "category": "demos",
+      "language": "JavaScript",
+      "stars": 0,
+      "added": "2026-09-21"
+    },
+    {
       "name": "Jev mood demo",
       "repo": null,
       "site": "https://jev-demo.vercel.app",
