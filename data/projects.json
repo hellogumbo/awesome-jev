@@ -9688,6 +9688,16 @@
       "added": "2026-09-21",
       "created": "2026-09-18",
       "pushed": "2026-09-21"
+    },
+    {
+      "name": "jev-mail",
+      "repo": "vynnlee/jev-mail",
+      "site": "https://jev-mail.com",
+      "description": "CLI-managed, always-on Gmail classifier running on your own Google Apps Script where Jev scores urgency, importance, and category.",
+      "category": "apps",
+      "language": "TypeScript",
+      "stars": 0,
+      "added": "2026-09-21"
     }
   ]
 }
