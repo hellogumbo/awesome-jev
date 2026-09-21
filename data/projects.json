@@ -10852,6 +10852,16 @@
       "added": "2026-09-22",
       "created": "2026-09-22",
       "pushed": "2026-09-22"
+    },
+    {
+      "name": "voice_control",
+      "repo": "igorkasyanchuk/voice_control",
+      "site": "https://youtu.be/Zz1Ibx8R7WI",
+      "description": "Rails engine for voice and typed commands: define actions in a Ruby DSL and Jev picks the matching command or page control, with your own authorization and signed, replay-protected execution.",
+      "category": "integrations",
+      "language": "Ruby",
+      "stars": 0,
+      "added": "2026-09-22"
     }
   ]
 }
