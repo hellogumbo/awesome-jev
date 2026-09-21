@@ -9688,6 +9688,16 @@
       "added": "2026-09-21",
       "created": "2026-09-18",
       "pushed": "2026-09-21"
+    },
+    {
+      "name": "jevtraces",
+      "repo": "ishantanu/jevtraces",
+      "site": null,
+      "description": "OpenTelemetry Collector processor that uses Jev to assess span operation metadata and annotate spans with diagnostic value, business criticality, and retention probabilities without dropping traces.",
+      "category": "integrations",
+      "language": "Go",
+      "stars": 0,
+      "added": "2026-09-21"
     }
   ]
 }
