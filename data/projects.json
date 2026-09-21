@@ -8310,6 +8310,16 @@
       "language": "TypeScript",
       "stars": 2,
       "added": "2026-09-20"
+    },
+    {
+      "name": "jev-acp",
+      "repo": "formulahendry/jev-acp",
+      "site": null,
+      "description": "Use Jev's Choice, Score, and Noul decisions from ACP-compatible clients, with guided input, reusable templates, and probability displays.",
+      "category": "integrations",
+      "language": "TypeScript",
+      "stars": 0,
+      "added": "2026-09-21"
     }
   ]
 }
