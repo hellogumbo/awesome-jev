@@ -9688,6 +9688,18 @@
       "added": "2026-09-21",
       "created": "2026-09-18",
       "pushed": "2026-09-21"
+    },
+    {
+      "name": "jgrep",
+      "repo": "kyu1204/jgrep",
+      "site": "https://www.npmjs.com/package/jevgrep",
+      "description": "Semantic grep for code, git diffs and CSV rows: one Jev Noul per 5-60 line chunk, 16 chunks per request, grep-style file:line output and exit codes so English sentences work as CI lint rules.",
+      "category": "agents",
+      "language": "TypeScript",
+      "stars": 12,
+      "added": "2026-09-21",
+      "created": "2026-09-19",
+      "pushed": "2026-09-19"
     }
   ]
 }
