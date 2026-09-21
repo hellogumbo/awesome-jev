@@ -4591,6 +4591,16 @@
       "post": "https://x.com/DagmawiBabi/status/2100618066459553796"
     },
     {
+      "name": "Jev Wrapped",
+      "repo": "gaborishka/jev-wrapped",
+      "site": "https://wrapped.ivanhabor.com",
+      "description": "Paste a public Telegram channel and get a card for its last year: Jev judges up to 1,500 posts for kind, paid ad, clickbait and emotional pressure, and the card shows the mix month by month with the highest-scoring posts linked for checking.",
+      "category": "apps",
+      "language": "JavaScript",
+      "stars": 0,
+      "added": "2026-09-21"
+    },
+    {
       "name": "dmx.to",
       "repo": null,
       "site": "https://dmx.to",
