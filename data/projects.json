@@ -8361,7 +8361,7 @@
       "name": "jev-lint",
       "repo": "mizchi/jev-lint",
       "site": null,
-      "description": "lint text in code by jev scorerer",
+      "description": "Natural-language linter combining ast-grep selectors with Jev verdicts to catch misleading names, stale comments, and tests that miss their stated behavior, with fixture-calibrated cutoffs and diff-aware review.",
       "category": "agents",
       "language": "TypeScript",
       "stars": 71,
