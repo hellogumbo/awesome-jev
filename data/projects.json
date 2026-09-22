@@ -59,6 +59,16 @@
   ],
   "projects": [
     {
+      "name": "GeekLink Jev Subtitle Translator",
+      "repo": "GeekLinkDev/jev-subtitle-translator",
+      "site": "https://geeklink.dev/subtitle-translator/",
+      "description": "Translate SRT subtitles with structured LLM output, then use Jev to flag omissions, changed meaning, and suspicious lines before export.",
+      "category": "apps",
+      "language": "Python",
+      "stars": 0,
+      "added": "2026-09-22"
+    },
+    {
       "name": "eve",
       "repo": "vercel/eve",
       "site": "https://eve.dev",
