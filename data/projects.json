@@ -8694,6 +8694,18 @@
       "pushed": "2026-09-22"
     },
     {
+      "name": "jev-in-the-wild",
+      "repo": "Jessie-QingYu/jev-in-the-wild",
+      "site": null,
+      "description": "Index of Jev work that covers Reddit, Hacker News, YouTube and blogs as well as GitHub, with a section for limits and failed results. Generated from JSON with a published schema.",
+      "category": "lists",
+      "language": "JavaScript",
+      "stars": 1,
+      "added": "2026-09-22",
+      "created": "2026-09-22",
+      "pushed": "2026-09-22"
+    },
+    {
       "name": "jev-weekend-shopping-chrome",
       "repo": "littlewindy123/jev-weekend-shopping-chrome",
       "site": null,
