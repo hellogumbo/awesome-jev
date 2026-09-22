@@ -10852,6 +10852,16 @@
       "added": "2026-09-22",
       "created": "2026-09-22",
       "pushed": "2026-09-22"
+    },
+    {
+      "name": "hunch",
+      "repo": "steven-shoemaker/hunch",
+      "site": null,
+      "description": "Python library, with a TypeScript port, that turns Jev Choice, Score, and Noul questions into functions over lists and DataFrames: classify, score, check, where, extract, pick, rank, verify.",
+      "category": "sdks",
+      "language": "Python",
+      "stars": 0,
+      "added": "2026-09-22"
     }
   ]
 }
