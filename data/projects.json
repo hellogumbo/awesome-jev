@@ -10852,6 +10852,16 @@
       "added": "2026-09-22",
       "created": "2026-09-22",
       "pushed": "2026-09-22"
+    },
+    {
+      "name": "jev-guard",
+      "repo": "klauswg/jev-guard",
+      "site": null,
+      "description": "Real-time deposit/withdrawal risk-triage gateway for crypto exchanges: Jev triages each transfer (risk level, pattern, freeze probability) while hard rules veto and a direction-aware Java gate decides; ships a 100-sample three-column calibration against a rules-only baseline.",
+      "category": "apps",
+      "language": "Java",
+      "stars": 0,
+      "added": "2026-09-23"
     }
   ]
 }
