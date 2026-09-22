@@ -10852,6 +10852,16 @@
       "added": "2026-09-22",
       "created": "2026-09-22",
       "pushed": "2026-09-22"
+    },
+    {
+      "name": "Search with Jev and Milvus",
+      "repo": "milvus-io/bootcamp",
+      "site": "https://github.com/milvus-io/bootcamp/tree/master/bootcamp/RAG/search_with_jev",
+      "description": "Nine runnable notebooks combine Gemini embeddings and Milvus retrieval with Jev judgments for reranking, filtering, search stopping, routing, cache reuse, curation, guardrails, and evaluation.",
+      "category": "demos",
+      "language": "Jupyter Notebook",
+      "stars": 0,
+      "added": "2026-09-22"
     }
   ]
 }
