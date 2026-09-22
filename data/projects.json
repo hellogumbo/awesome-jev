@@ -245,7 +245,7 @@
       "pushed": "2026-09-19"
     },
     {
-      "name": "Switchboard",
+      "name": "Switchboard (ruban-24)",
       "repo": "ruban-24/switchboard",
       "site": null,
       "description": "Routes Claude Code and Codex conversations by using Jev to assess a new task, applying local confidence rules to select a model and reasoning effort, and pinning that route through follow-ups, tool calls, and resume to avoid unnecessary prompt-cache disruption.",
