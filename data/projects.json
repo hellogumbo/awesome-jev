@@ -10852,6 +10852,16 @@
       "added": "2026-09-22",
       "created": "2026-09-22",
       "pushed": "2026-09-22"
+    },
+    {
+      "name": "discern",
+      "repo": "doeixd/discern",
+      "site": "https://www.npmjs.com/package/@doeixd/discern",
+      "description": "Uncertainty-aware control flow for Effect: Jev's Choice, Noul and Score answers become typed patterns with an explicit Uncertain branch, plus routable procedures, recording, replay, caching and call budgets.",
+      "category": "integrations",
+      "language": "TypeScript",
+      "stars": 0,
+      "added": "2026-09-22"
     }
   ]
 }
