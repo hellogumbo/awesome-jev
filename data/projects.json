@@ -9688,6 +9688,16 @@
       "added": "2026-09-21",
       "created": "2026-09-18",
       "pushed": "2026-09-21"
+    },
+    {
+      "name": "jev-compaction",
+      "repo": "Waxmell114514/jev-compaction",
+      "site": "https://waxmell114514.github.io/jev-compaction/",
+      "description": "Demo of Jev-scored context compaction: low-scoring tool-output segments move to a store behind an expandable pointer, and each expand is logged as a false negative against the score that caused it.",
+      "category": "agents",
+      "language": "Python",
+      "stars": 0,
+      "added": "2026-09-22"
     }
   ]
 }
