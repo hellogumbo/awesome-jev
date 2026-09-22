@@ -10852,6 +10852,16 @@
       "added": "2026-09-22",
       "created": "2026-09-22",
       "pushed": "2026-09-22"
+    },
+    {
+      "name": "kojev",
+      "repo": "ItisNoMatter/kojev",
+      "site": null,
+      "description": "Kotlin Multiplatform client for Jev that answers Choice and Score questions as your own enums.",
+      "category": "sdks",
+      "language": "Kotlin",
+      "stars": 0,
+      "added": "2026-09-22"
     }
   ]
 }
