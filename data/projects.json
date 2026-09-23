@@ -59,6 +59,16 @@
   ],
   "projects": [
     {
+      "name": "Jev Does Not Play Dice",
+      "repo": "KantaHayashiAI/jev-does-not-play-dice",
+      "site": "https://kantahayashiai.github.io/posts/jev-does-not-play-dice/",
+      "description": "Independent calibration evaluation of Jev on fair random draws with known probabilities and synthetic forecast documents, with recorded outputs and offline recomputation.",
+      "category": "research",
+      "language": "JavaScript",
+      "stars": 0,
+      "added": "2026-09-24"
+    },
+    {
       "name": "eve",
       "repo": "vercel/eve",
       "site": "https://eve.dev",
