@@ -11947,6 +11947,18 @@
       "pushed": "2026-09-23"
     },
     {
+      "name": "jevsearch",
+      "repo": "kylemclaren/jevsearch",
+      "site": "https://jevsearch.fly.dev",
+      "description": "Drop-in shadcn/ui ⌘K site search where a local keyword pass streams hits and one Jev request re-ranks the top 20 (a Noul per page, a Choice for the best answer), with no embeddings or vector DB.",
+      "category": "integrations",
+      "language": "TypeScript",
+      "stars": 0,
+      "added": "2026-09-23",
+      "created": "2026-09-21",
+      "pushed": "2026-09-23"
+    },
+    {
       "name": "jev-subtitle-translator",
       "repo": "GeekLinkDev/jev-subtitle-translator",
       "site": "https://geeklink.dev/subtitle-translator/",
