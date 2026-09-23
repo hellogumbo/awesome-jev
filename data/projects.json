@@ -11957,6 +11957,16 @@
       "added": "2026-09-23",
       "created": "2026-09-21",
       "pushed": "2026-09-23"
+    },
+    {
+      "name": "jevr",
+      "repo": "romeromarcelo/jev-retrieval",
+      "site": "https://crates.io/crates/jevr",
+      "description": "Semantic code and document search CLI for coding agents: a stateless BM25 pass recalls candidate files, Jev Nouls verify each one window-by-window against the query, and one listwise Choice reranks the survivors into grep-style path:line output with calibrated relevance scores.",
+      "category": "agents",
+      "language": "Rust",
+      "stars": 0,
+      "added": "2026-09-23"
     }
   ]
 }
