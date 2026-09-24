@@ -12490,8 +12490,8 @@
     {
       "name": "wellposed",
       "repo": "suraj-phanindra/wellposed",
-      "site": null,
-      "description": "Lint your jev requests before they come back confidently wrong.",
+      "site": "https://www.npmjs.com/package/wellposed",
+      "description": "Lints Jev requests before they are sent: offline checks for missing none-of-the-above options and broken state paths, then Jev itself for what structure cannot decide.",
       "category": "agents",
       "language": "JavaScript",
       "stars": 2,
