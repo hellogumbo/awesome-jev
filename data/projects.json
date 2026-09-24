@@ -13178,6 +13178,16 @@
       "language": "TypeScript",
       "stars": 0,
       "added": "2026-09-24"
+    },
+    {
+      "name": "PermitMCP",
+      "repo": "qinpei-dev/permit-mcp",
+      "site": null,
+      "description": "Gates MCP agent tool execution with deterministic policy, Jev decisions, explicit human approval, and one-use execution permits.",
+      "category": "agents",
+      "language": "Python",
+      "stars": 0,
+      "added": "2026-09-25"
     }
   ]
 }
