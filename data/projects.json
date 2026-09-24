@@ -11957,6 +11957,16 @@
       "added": "2026-09-23",
       "created": "2026-09-21",
       "pushed": "2026-09-23"
+    },
+    {
+      "name": "Magic Jev Ball",
+      "repo": "mikecann/magic-jev-ball",
+      "site": "https://magic-jev.mikecann.app",
+      "description": "A 3D Magic 8 Ball you shake and let go, where Jev answers your question as a Choice over the 20 classic answers and the page shows its probability for each one, running on Convex through the Convex AI Gateway.",
+      "category": "demos",
+      "language": "TypeScript",
+      "stars": 0,
+      "added": "2026-09-24"
     }
   ]
 }
