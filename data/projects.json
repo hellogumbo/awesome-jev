@@ -11957,6 +11957,17 @@
       "added": "2026-09-23",
       "created": "2026-09-21",
       "pushed": "2026-09-23"
+    },
+    {
+      "name": "Jev in Search: Three Practical Evaluations",
+      "repo": null,
+      "site": null,
+      "description": "Independent experiments on search stopping, memory reranking, and multi-hop relation selection, with implementation links and limitations including private data, unequal sample counts, and a simulated speed illustration.",
+      "category": "articles",
+      "language": null,
+      "stars": 0,
+      "added": "2026-09-24",
+      "url": "https://zc277584121.github.io/rag/2026/09/22/jev-search-deep-evaluation.html"
     }
   ]
 }
