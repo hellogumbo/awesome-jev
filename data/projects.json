@@ -13178,6 +13178,16 @@
       "language": "TypeScript",
       "stars": 0,
       "added": "2026-09-24"
+    },
+    {
+      "name": "jevextract",
+      "repo": "gabazureus/jevextract",
+      "site": null,
+      "description": "Open-source alternative to LangExtract: code proposes candidate spans with exact offsets and Jev only decides each one's schema class with a Choice, plus a Noul per sentence-level class, so every extraction is grounded in the source; ships a bilingual benchmark and paper comparing it with LangExtract, an LLM-JSON baseline and GLiNER on quality, latency and cost.",
+      "category": "sdks",
+      "language": "Python",
+      "stars": 0,
+      "added": "2026-09-25"
     }
   ]
 }
