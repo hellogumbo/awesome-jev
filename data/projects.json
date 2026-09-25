@@ -13178,6 +13178,16 @@
       "language": "TypeScript",
       "stars": 0,
       "added": "2026-09-24"
+    },
+    {
+      "name": "Chess with Jev",
+      "repo": "cwdx/chess-with-jev",
+      "site": "https://chriswijnia.com/experiments/chess",
+      "description": "Chess and Chess960 in the browser where code works out each legal move's facts and Jev picks one per turn as a single Choice, with its candidates drawn as arrows.",
+      "category": "games",
+      "language": "TypeScript",
+      "stars": 0,
+      "added": "2026-09-25"
     }
   ]
 }
