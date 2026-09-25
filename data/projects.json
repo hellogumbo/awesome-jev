@@ -13178,6 +13178,16 @@
       "language": "TypeScript",
       "stars": 0,
       "added": "2026-09-24"
+    },
+    {
+      "name": "1 Million Emojis",
+      "repo": "cwdx/1-million-emojis",
+      "site": "https://chriswijnia.com/experiments/emoji",
+      "description": "A shared 1000 × 1000 emoji canvas, live for everyone, where Jev joins each stroke by choosing a square next to it and its emoji as one Choice.",
+      "category": "games",
+      "language": "TypeScript",
+      "stars": 0,
+      "added": "2026-09-25"
     }
   ]
 }
