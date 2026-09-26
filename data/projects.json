@@ -7236,7 +7236,7 @@
       "name": "Augustus",
       "repo": "24601/Augustus",
       "site": "https://24601.github.io/Augustus/",
-      "description": "Independent agent skill for finding, building, evaluating, and improving decision-model systems with composition rules, evaluation harnesses, and bounded prompt/program optimization; TypeSafe Jev is the default hosted exemplar.",
+      "description": "Independent augustus and augustus-train agent skills for application-specific decision models: primitive, base-model and method selection, data assembly, fitting, export/reload, bounded improvement and independent evaluation; TypeSafe Jev is the default hosted exemplar.",
       "category": "agents",
       "language": "Python",
       "stars": 9,
