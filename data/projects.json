@@ -13178,6 +13178,17 @@
       "language": "TypeScript",
       "stars": 0,
       "added": "2026-09-24"
+    },
+    {
+      "name": "Jev in the Wild: A Data-Driven Analysis of the Jev Model's Functionality, Applications and Ecosystem",
+      "repo": null,
+      "site": null,
+      "url": "https://arxiv.org/abs/2609.30216",
+      "description": "The first data-driven survey and analysis of Jev's application ecosystem, examining 2,170 public GitHub projects to document rapid early growth, application domains, and decision-use patterns.",
+      "category": "articles",
+      "language": null,
+      "stars": 0,
+      "added": "2026-09-26"
     }
   ]
 }
