@@ -13178,6 +13178,16 @@
       "language": "TypeScript",
       "stars": 0,
       "added": "2026-09-24"
+    },
+    {
+      "name": "jev.zig",
+      "repo": "jakeknowlton/jev.zig",
+      "site": null,
+      "description": "Unofficial Zig client for the TypeSafe System One API that types Noul, Choice, and Score answers from your enums at compile time.",
+      "category": "sdks",
+      "language": "Zig",
+      "stars": 0,
+      "added": "2026-09-27"
     }
   ]
 }
