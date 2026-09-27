@@ -13178,6 +13178,17 @@
       "language": "TypeScript",
       "stars": 0,
       "added": "2026-09-24"
+    },
+    {
+      "name": "OneJev",
+      "repo": "OmniJev/OneJev",
+      "site": "https://omnijev.github.io/OneJev/",
+      "description": "Open multimodal System One model in four sizes (0.8B to 27B): typed questions about a screenshot, photo, video or text get a calibrated probability for every option in one forward pass.",
+      "category": "research",
+      "language": "Python",
+      "stars": 0,
+      "added": "2026-09-27",
+      "pushed": "2026-09-27"
     }
   ]
 }
