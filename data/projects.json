@@ -13178,6 +13178,16 @@
       "language": "TypeScript",
       "stars": 0,
       "added": "2026-09-24"
+    },
+    {
+      "name": "jevos",
+      "repo": "feder-cr/jev",
+      "site": null,
+      "description": "Open, CPU-only alternative to Jev for yes/no decisions: MiniCPM5-1B cut to 17 layers with a one-logit head, quantized to a 619 MB GGUF, running on llama.cpp in one forward pass.",
+      "category": "research",
+      "language": "Python",
+      "stars": 0,
+      "added": "2026-09-27"
     }
   ]
 }
