@@ -13178,6 +13178,16 @@
       "language": "TypeScript",
       "stars": 0,
       "added": "2026-09-24"
+    },
+    {
+      "name": "jev.zig",
+      "repo": "jakeknowlton/jev.zig",
+      "site": null,
+      "description": "Zig client for the TypeSafe System One API. Answers are typed at compile time and own no memory.",
+      "category": "sdks",
+      "language": "Zig",
+      "stars": 1,
+      "added": "2026-09-27"
     }
   ]
 }
