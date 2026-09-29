@@ -13178,6 +13178,16 @@
       "language": "TypeScript",
       "stars": 0,
       "added": "2026-09-24"
+    },
+    {
+      "name": "jev-state",
+      "repo": "suranjaychandra/jev-state",
+      "site": "https://www.npmjs.com/package/jev-state",
+      "description": "Turns raw app and game state into labels Jev reads well (hp 38/250 -> \"critical\", timestamps -> \"less than a minute ago\", counts -> \"a few\"), prunes the rest, and maps pick() choices back to items; on 70 NPC scenarios accuracy went from 74% to 100% with 43% fewer tokens.",
+      "category": "sdks",
+      "language": "TypeScript",
+      "stars": 0,
+      "added": "2026-09-29"
     }
   ]
 }
