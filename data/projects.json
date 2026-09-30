@@ -13179,5 +13179,16 @@
       "stars": 0,
       "added": "2026-09-24"
     }
+,
+    {
+      "name": "ReadyCode Reader",
+      "repo": "ReadycodeAI/readycode-reader",
+      "site": "https://readycode.ai/reader",
+      "description": "Local-first MCP and browser tool that uses Jev decisions to keep PDF, Word and Excel passages likely to answer a question, flag conflicting or instruction-like evidence, and decide when spreadsheet requests need exact local calculation.",
+      "category": "agents",
+      "language": "JavaScript",
+      "stars": 0,
+      "added": "2026-09-30"
+    }
   ]
 }
