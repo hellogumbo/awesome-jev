@@ -13178,6 +13178,16 @@
       "language": "TypeScript",
       "stars": 0,
       "added": "2026-09-24"
+    },
+    {
+      "name": "WaterSheep",
+      "repo": "SamratDuttaOfficial/WaterSheep",
+      "site": "https://samratduttaofficial.github.io/WaterSheep/",
+      "description": "Open, Apache-2.0 alternative to Jev that runs locally. Its server accepts Jev's /v1/systemone requests, so TypeSafe's Python SDK works against it, and it adds multi-label questions.",
+      "category": "research",
+      "language": "Python",
+      "stars": 0,
+      "added": "2026-10-03"
     }
   ]
 }
