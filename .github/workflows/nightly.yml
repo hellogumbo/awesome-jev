@@ -47,6 +47,7 @@ jobs:
         run: |
           git add README.md
           git diff --cached --quiet || git commit -m "chore: rebuild README"
+          git pull --rebase origin main
           git push
       - name: Deploy
         if: steps.commit.outputs.changed == 'true'

@@ -26,7 +26,7 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add README.md
-          git diff --cached --quiet || (git commit -m "chore: rebuild README" && git push)
+          git diff --cached --quiet || (git commit -m "chore: rebuild README" && git pull --rebase origin main && git push)
       - uses: cloudflare/wrangler-action@v3
         with:
           apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
