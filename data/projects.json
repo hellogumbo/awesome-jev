@@ -15171,6 +15171,316 @@
       "language": "Python",
       "stars": 0,
       "added": "2026-10-05"
+    },
+    {
+      "name": "Agent Tool",
+      "repo": "den0206/agent-tool",
+      "site": "https://chromewebstore.google.com/detail/agent-tool/allbohfeiidaiemnagikcghaialfafhp",
+      "description": "Cursor/VS Code extension and a Chrome/Edge/Brave extension that catch Skills and Subagents while you browse and install them into your coding agents.",
+      "category": "browser",
+      "language": "TypeScript",
+      "stars": 0,
+      "added": "2026-10-05"
+    },
+    {
+      "name": "emoji suggestor",
+      "repo": null,
+      "site": "https://emoji-suggest.stupidlabs.lol/",
+      "description": "Paste text and Jev suggests the best-fitting emoji for it.",
+      "category": "demos",
+      "language": null,
+      "stars": 0,
+      "added": "2026-10-05"
+    },
+    {
+      "name": "Jev's bias analyzer",
+      "repo": null,
+      "site": "https://jev-bias-analysis.stupidlabs.lol/",
+      "description": "Answers this question with actual experimental data: Would JEV change its mind about you if your profile changed?",
+      "category": "research",
+      "language": null,
+      "stars": 0,
+      "added": "2026-10-05"
+    },
+    {
+      "name": "jev-debug",
+      "repo": "shinjiyu/jev-debug",
+      "site": null,
+      "description": "Locate a bug file, or flag a diff, by cross-checking small source batches with JEV.",
+      "category": "agents",
+      "language": "Python",
+      "stars": 0,
+      "added": "2026-10-05"
+    },
+    {
+      "name": "answerr",
+      "repo": "pCwOrM/answerr",
+      "site": "https://answerr.me",
+      "description": "A.N.S.W.E.R.R. — The Zero-Latency Reflex AI. Bridges deliberative language models with werr's zero-memory fractal decision engine. Instant, typed decisions in <1ms.",
+      "category": "apps",
+      "language": "JavaScript",
+      "stars": 1,
+      "added": "2026-10-05"
+    },
+    {
+      "name": "Jev Telegram Channel Router",
+      "repo": "HuXioAn/jev-telegram-channel-router",
+      "site": null,
+      "description": "Jev as a channel message router | Jev频道消息路由",
+      "category": "apps",
+      "language": "Python",
+      "stars": 0,
+      "added": "2026-10-05"
+    },
+    {
+      "name": "UH OH",
+      "repo": null,
+      "site": "https://playuhoh.com/gh",
+      "description": "UH OH is a free browser game about surviving five awkward conversations.",
+      "category": "games",
+      "language": null,
+      "stars": 0,
+      "added": "2026-10-05"
+    },
+    {
+      "name": "Jev by Example",
+      "repo": "ReallyArtificial/jev-by-example",
+      "site": null,
+      "description": "Ten runnable Jev examples for agent decisions: memory conflicts, tool-result checks, recovery, context selection, and handoffs. JavaScript, zero dependencies.",
+      "category": "demos",
+      "language": "JavaScript",
+      "stars": 2,
+      "added": "2026-10-05"
+    },
+    {
+      "name": "Filelathe",
+      "repo": "rhelmer/filelathe",
+      "site": "https://www.filelathe.com",
+      "description": "Drop a file or URL and get a viewer. Jev routes unknown files (invent vs inspect) and composes known-file UIs via json-render experimentalcomposeSpec. Haiku only invents a Spec when Jev says the format is unknown.",
+      "category": "apps",
+      "language": "TypeScript",
+      "stars": 1,
+      "added": "2026-10-05"
+    },
+    {
+      "name": "HR tool pile",
+      "repo": null,
+      "site": "https://dormytech.com/jev",
+      "description": "Type an HR problem in plain words and the tools that fit rise out of a physics pile of 50 HR tool logos, updating as you type. Clear the box and they fall back down.",
+      "category": "demos",
+      "language": null,
+      "stars": 0,
+      "added": "2026-10-05"
+    },
+    {
+      "name": "Magic Jev Ball (rurudigital)",
+      "repo": null,
+      "site": "https://magic-jev-ball.rurudigital.workers.dev/",
+      "description": "A Magic 8 Ball that answers from the fixed set of classic phrases, with Jev choosing the phrase instead of chance.",
+      "category": "demos",
+      "language": null,
+      "stars": 0,
+      "added": "2026-10-05"
+    },
+    {
+      "name": "super-research",
+      "repo": "matwate/super-research",
+      "site": null,
+      "description": "A research agent that spends on one expensive model call per pass.",
+      "category": "agents",
+      "language": "Python",
+      "stars": 0,
+      "added": "2026-10-05"
+    },
+    {
+      "name": "JevKit",
+      "repo": null,
+      "site": "https://jevkit.dev",
+      "description": "JevKit is an independent developer resource for Jev, with source-backed guides and practical tools for learning typed decision workflows.",
+      "category": "articles",
+      "language": null,
+      "stars": 0,
+      "added": "2026-10-05"
+    },
+    {
+      "name": "jev-classifies-bots",
+      "repo": "gitcommitshow/jev-classifies-bots",
+      "site": null,
+      "description": "A jev intelligence layer for event stream to classify the app traffic into human vs aiagent vs seotool vs scraper vs otherautomation with badintent probability",
+      "category": "apps",
+      "language": "JavaScript",
+      "stars": 0,
+      "added": "2026-10-05"
+    },
+    {
+      "name": "Explorbot",
+      "repo": "testomatio/explorbot",
+      "site": "https://testomat.ai/explorbot/",
+      "description": "AI Agent for Exploratory Browser Testing",
+      "category": "browser",
+      "language": "TypeScript",
+      "stars": 86,
+      "added": "2026-10-05"
+    },
+    {
+      "name": "mobile-jev-ultrafast",
+      "repo": "cnhuye/mobile-jev-ultrafast",
+      "site": null,
+      "description": "Natural language lets JEV operate the phone. No cloud services required.",
+      "category": "browser",
+      "language": "Python",
+      "stars": 2,
+      "added": "2026-10-05"
+    },
+    {
+      "name": "jev-spatial",
+      "repo": "Fr0zenCrane/jev-spatial",
+      "site": null,
+      "description": "Jev-Spatial is a System One spatial model inspired by Jev. It builds on Molmo2-ER, and instead of generating text it answers spatial questions by choosing from a fixed set of options with one shared classifier head.",
+      "category": "research",
+      "language": "Python",
+      "stars": 3,
+      "added": "2026-10-05"
+    },
+    {
+      "name": "jev-figma-design-plugin",
+      "repo": "voidning/jev-figma-design-plugin",
+      "site": null,
+      "description": "用 Jev 把一句自然语言设计指令拆成几道选择题，再由代码在 Figma 里画出来 · Jev decides, code draws: a Figma plugin that turns one sentence into multiple-choice questions for Jev (System One)",
+      "category": "apps",
+      "language": "TypeScript",
+      "stars": 0,
+      "added": "2026-10-05"
+    },
+    {
+      "name": "Jev Flow",
+      "repo": "daltonrpj/jev-flow",
+      "site": "https://jevflow.cloud/",
+      "description": "Standalone open-source studio for typed Jev workflows",
+      "category": "agents",
+      "language": "JavaScript",
+      "stars": 7,
+      "added": "2026-10-05"
+    },
+    {
+      "name": "TypeSafe Godot SDK",
+      "repo": "IAmNo1Special/typesafe-sdk-godot",
+      "site": "https://godotengine.org/asset-library/asset/5481",
+      "description": "TypeSafe SDK for Godot 4.7, at parity with the Python SDK and the HTTP API reference.",
+      "category": "sdks",
+      "language": "GDScript",
+      "stars": 1,
+      "added": "2026-10-05"
+    },
+    {
+      "name": "Jev-Reranking",
+      "repo": "carlaiau/jev-reranking",
+      "site": "https://jev-reranking.netlify.app/",
+      "description": "Search engine experimentation on the TREC collections. Currently focused on zero-shot reranking implementations with typesafe.ai's JEV model",
+      "category": "research",
+      "language": "Python",
+      "stars": 10,
+      "added": "2026-10-05"
+    },
+    {
+      "name": "Astrolabe",
+      "repo": "yongukpark/astrolabe",
+      "site": null,
+      "description": "Astrolabe is a local research discovery tool that uses Jev to read and classify thousands of conference papers by how relevant they are to a user-defined research topic.",
+      "category": "apps",
+      "language": "TypeScript",
+      "stars": 2,
+      "added": "2026-10-05"
+    },
+    {
+      "name": "JEV Control Your Roboarm",
+      "repo": "CharlesFeng0314/JEV_control_your_roboarm",
+      "site": null,
+      "description": "JEV robot decision loop with an experiment scene.",
+      "category": "games",
+      "language": "Python",
+      "stars": 0,
+      "added": "2026-10-05"
+    },
+    {
+      "name": "JEV GitHub Labeler",
+      "repo": "xavierloeraflores/jev-github-labeler",
+      "site": "https://jev-github-labeler.vercel.app/",
+      "description": "Automatically label GitHub issues and pull requests with Jev. Self-hosted Next.js API with GitHub Actions workflows and custom label support.",
+      "category": "integrations",
+      "language": "TypeScript",
+      "stars": 0,
+      "added": "2026-10-05"
+    },
+    {
+      "name": "TetraJev",
+      "repo": "FeiLiuEM/tetrajev",
+      "site": null,
+      "description": "High-performance, high-precision, locally-fast-deployed Jev-class decision service — four readings, one routed decision, zero training.",
+      "category": "research",
+      "language": "Python",
+      "stars": 1,
+      "added": "2026-10-05"
+    },
+    {
+      "name": "TypeSafe Conversation for Home Assistant",
+      "repo": "the-sof/home-assistant-typesafe-conversation-agent",
+      "site": null,
+      "description": "A Home Assistant voice agent that decides with typed, calibrated judgements instead of an LLM. One ~300 ms call per command, and it asks when it isn't sure.",
+      "category": "integrations",
+      "language": "Python",
+      "stars": 6,
+      "added": "2026-10-05"
+    },
+    {
+      "name": "JEVsees",
+      "repo": "CharlesFeng0314/JEV_sees",
+      "site": null,
+      "description": "Real-time visual decisions from RGB, video, and RGB-D cameras in the Jev style: fixed options, calibrated probabilities, no text generation.",
+      "category": "research",
+      "language": "Python",
+      "stars": 294,
+      "added": "2026-10-05"
+    },
+    {
+      "name": "Jev Decision Gate",
+      "repo": "f-tiger/jev-decision-gate",
+      "site": null,
+      "description": "Jev Decision Gate provides a Python CLI, local MCP and installable Skill for Issue triage: Jev answers three Choice questions about issue kind, affected module and information sufficiency.",
+      "category": "agents",
+      "language": "Python",
+      "stars": 1,
+      "added": "2026-10-05"
+    },
+    {
+      "name": "Entune",
+      "repo": "eandualem/entune",
+      "site": null,
+      "description": "Open-source, cross-platform dictation with your choice of speech model and a personal dictionary where Jev selects corrections in context.",
+      "category": "apps",
+      "language": "Python",
+      "stars": 6,
+      "added": "2026-10-05"
+    },
+    {
+      "name": "AI slop detector using JEV",
+      "repo": null,
+      "site": "https://madewithjev.com/free-tools/ai-slop-detector",
+      "description": "Paste any URL and Jev checks the site for 35 tells of AI slop (purple gradients, emoji headers, fake testimonials) in about 250 ms, returning a slop score.",
+      "category": "demos",
+      "language": null,
+      "stars": 0,
+      "added": "2026-10-05"
+    },
+    {
+      "name": "Friendly Fire",
+      "repo": null,
+      "site": "https://www.promptbox.cn/logi/logi_code/friendly-fire",
+      "description": "Twin-stick shooter where Jev controls the enemies, making each move and shot as a typed decision.",
+      "category": "games",
+      "language": null,
+      "stars": 0,
+      "added": "2026-10-05"
     }
   ]
 }
