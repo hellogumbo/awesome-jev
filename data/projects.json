@@ -15151,6 +15151,16 @@
       "language": "JavaScript",
       "stars": 0,
       "added": "2026-10-05"
+    },
+    {
+      "name": "jev-seo (DeployMates)",
+      "repo": "DeployMates/jev-seo",
+      "site": "https://jev.mfrank.me/",
+      "description": "Audits any business website for SEO and AI-answer-engine visibility: a deterministic crawler measures each page, Jev answers narrow typed questions over the extracted text, and the returned probabilities become ranked findings in a local dashboard.",
+      "category": "apps",
+      "language": "TypeScript",
+      "stars": 0,
+      "added": "2026-10-05"
     }
   ]
 }
