@@ -27,6 +27,7 @@ jobs:
         run: npm run discover -- --add --days=7
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - run: npm run validate
       - name: Commit data changes
         id: commit
         run: |
@@ -39,7 +40,6 @@ jobs:
           fi
           git commit -m "chore: nightly refresh and discovery"
           echo "changed=true" >> "$GITHUB_OUTPUT"
-      - run: npm run validate
       - name: Build
         run: npm run build
       - name: Commit README

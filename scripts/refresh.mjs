@@ -11,6 +11,7 @@ const headers = { Accept: "application/vnd.github+json", "User-Agent": "awesome-
 if (token) headers.Authorization = `Bearer ${token}`;
 
 let changed = 0;
+const merged = new Set();
 for (const p of data.projects) {
   if (!p.repo) continue;
   const res = await fetch(`https://api.github.com/repos/${p.repo}`, { headers });
@@ -25,6 +26,14 @@ for (const p of data.projects) {
   }
   const r = await res.json();
   if (r.full_name !== p.repo) {
+    const target = data.projects.find((q) => q !== p && !merged.has(q) && (q.repo || "").toLowerCase() === r.full_name.toLowerCase());
+    if (target) {
+      console.log(`renamed into existing entry, merging: ${p.repo} -> ${r.full_name}`);
+      for (const k of ["site", "post"]) if (!target[k] && p[k]) target[k] = p[k];
+      merged.add(p);
+      changed++;
+      continue;
+    }
     console.log(`renamed: ${p.repo} -> ${r.full_name}`);
     p.repo = r.full_name;
   }
@@ -44,6 +53,7 @@ for (const p of data.projects) {
   delete p.gone;
 }
 
+data.projects = data.projects.filter((p) => !merged.has(p));
 data.updated = new Date().toISOString().slice(0, 10);
 writeFileSync(file, JSON.stringify(data, null, 2) + "\n");
 console.log(`Refreshed ${data.projects.filter((p) => p.repo).length} repos, ${changed} field updates.`);

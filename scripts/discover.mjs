@@ -46,7 +46,7 @@ for (const q of queries) {
       if (r.created_at.slice(0, 10) < JEV_LAUNCH) continue;
       const key = r.full_name.toLowerCase();
       if (known.has(key) || skip.has(key)) continue;
-      found.set(r.full_name, r);
+      found.set(r.id, r);
     }
     if ((body.items || []).length < 100) break;
     await new Promise((r) => setTimeout(r, 1500));
