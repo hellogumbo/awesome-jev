@@ -15131,6 +15131,16 @@
       "language": "TypeScript",
       "stars": 0,
       "added": "2026-10-05"
+    },
+    {
+      "name": "DecisionKit",
+      "repo": "iamjonatha/decisionkit-dotnet",
+      "site": "https://www.nuget.org/packages/DecisionKit.Core",
+      "description": "Provider-independent .NET decision engine whose domain package knows nothing about Jev, while a separate provider package maps typed Choice, Score, and Noul questions onto the System One API, with dependency-injection wiring and offline test doubles.",
+      "category": "sdks",
+      "language": "C#",
+      "stars": 0,
+      "added": "2026-10-05"
     }
   ]
 }
