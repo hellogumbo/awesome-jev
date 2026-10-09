@@ -16390,6 +16390,16 @@
       "added": "2026-10-08",
       "created": "2026-09-23",
       "pushed": "2026-10-07"
+    },
+    {
+      "name": "jev-measured",
+      "repo": "WallerChen/jev-measured",
+      "site": "https://jev-agent.com/decisions-api",
+      "description": "Reproducible measurements of hosted Jev (cost per request, latency with the network floor separated out, response shapes, a labelled ticket comparison) plus thirteen decision models on OpenRouter's Decisions API answering the same items, with raw answers and scripts.",
+      "category": "research",
+      "language": "Python",
+      "stars": 0,
+      "added": "2026-10-09"
     }
   ]
 }
