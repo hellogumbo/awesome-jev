@@ -14496,7 +14496,7 @@
       "name": "OpenJevSwift",
       "repo": "Algorythm-Canada/OpenJevSwift",
       "site": "https://algorythm-canada.github.io/OpenJevSwift/",
-      "description": "Native Swift implementation of OpenJev: Jev-compatible System One typed decisions (noul, choice, score) on Apple silicon. Research and planning phase.",
+      "description": "Native Swift implementation of OpenJev: a Jev-compatible typed-decision server (noul, choice, score) for Apple silicon Macs, with libraries that run the same decisions inside iPhone apps.",
       "category": "research",
       "language": "Swift",
       "stars": 10,
