@@ -17071,6 +17071,16 @@
       "added": "2026-10-11",
       "created": "2026-10-10",
       "pushed": "2026-10-11"
+    },
+    {
+      "name": "Jevfast",
+      "repo": null,
+      "site": "https://jevfast.com/",
+      "description": "Jev AI use-case directory with source-code analysis and visual explanations of what Jev decides in each analyzed project.",
+      "category": "lists",
+      "language": null,
+      "stars": 0,
+      "added": "2026-10-12"
     }
   ]
 }
