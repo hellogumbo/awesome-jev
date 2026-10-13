@@ -17323,6 +17323,16 @@
       "added": "2026-10-12",
       "created": "2026-10-02",
       "pushed": "2026-10-12"
+    },
+    {
+      "name": "Viorant JEV MCP",
+      "repo": null,
+      "site": "https://www.viorant.ai/jev",
+      "description": "Hosted MCP server that evaluates text or JSON with typed yes/no, choice, and ordered-score questions, returning calibrated probabilities for routing, verification, screening, ranking, or escalation; the Free Plan starts with 2,500 Vio Credits, enough for up to 25M JEV input tokens.",
+      "category": "agents",
+      "language": null,
+      "stars": 0,
+      "added": "2026-10-12"
     }
   ]
 }
