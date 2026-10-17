@@ -18276,6 +18276,16 @@
       "language": "TypeScript",
       "stars": 20,
       "added": "2026-10-16"
+    },
+    {
+      "name": "Jev Agent",
+      "repo": null,
+      "site": "https://jev-agent.com/api-access",
+      "description": "Hosted Jev AI relay where the Jev model API runs eight pre-written classify rulesets (support-ticket-triage, content-moderation, phishing-detection, rag-reranking, lead-scoring and more) on up to 20 items per call, publishes the exact Jev questions behind each ruleset, and also takes TypeSafe's own systemone request shape; 5 free credits a month, independent and not affiliated with TypeSafe AI.",
+      "category": "integrations",
+      "language": null,
+      "stars": 0,
+      "added": "2026-10-17"
     }
   ]
 }
