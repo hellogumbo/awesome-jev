@@ -18664,6 +18664,16 @@
       "added": "2026-10-19",
       "created": "2026-10-15",
       "pushed": "2026-10-19"
+    },
+    {
+      "name": "Decision Models as Guardrails",
+      "repo": "raxITlabs/decision-models-as-guardrails",
+      "site": "https://dm-as-guardrails.raxitlabs.com",
+      "description": "Can a decision model replace a managed guardrail service? Jev 1.13.0 and 1.14.0, 16 other decision models and Amazon Bedrock Guardrails on the same 9,975 labelled checks, one fixed 0.5 block threshold, balanced accuracy and USD per 1,000 checks.",
+      "category": "research",
+      "language": "Python",
+      "stars": 0,
+      "added": "2026-10-20"
     }
   ]
 }
