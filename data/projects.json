@@ -18760,6 +18760,16 @@
       "added": "2026-10-20",
       "created": "2026-10-19",
       "pushed": "2026-10-19"
+    },
+    {
+      "name": "Trio-Spark",
+      "repo": "machinefi/trio-spark",
+      "site": "https://platform.machinefi.com/spark",
+      "description": "Open clients and runnable text, image and video demos for the System One-compatible Trio-Spark API, such as support-ticket routing with human review below a confidence threshold and comment moderation with adjustable thresholds.",
+      "category": "demos",
+      "language": "Python",
+      "stars": 0,
+      "added": "2026-10-20"
     }
   ]
 }
