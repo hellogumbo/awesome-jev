@@ -18940,6 +18940,16 @@
       "added": "2026-10-21",
       "created": "2026-10-16",
       "pushed": "2026-10-20"
+    },
+    {
+      "name": "Saina Helm 2 and Omni",
+      "repo": "run-saina/saina",
+      "site": "https://saina.run",
+      "description": "Open-weight 0.8B decision models with a Jev-compatible System One API: score typed questions over text with Helm 2 or text, images and short audio with Omni.",
+      "category": "research",
+      "language": "Python",
+      "stars": 0,
+      "added": "2026-10-22"
     }
   ]
 }
