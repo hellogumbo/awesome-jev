@@ -19578,6 +19578,16 @@
       "added": "2026-10-27",
       "created": "2026-10-06",
       "pushed": "2026-10-26"
+    },
+    {
+      "name": "Flide",
+      "repo": "OmniJev/Flide",
+      "site": "https://flide.org",
+      "description": "Open-source inference engine for decision models, up to 9.4× faster than existing LLM inference frameworks while maintaining high precision. Supports 19 model families through /v1/systemone.",
+      "category": "research",
+      "language": "Python",
+      "stars": 0,
+      "added": "2026-10-28"
     }
   ]
 }
