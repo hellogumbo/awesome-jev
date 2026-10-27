@@ -59,6 +59,16 @@
   ],
   "projects": [
     {
+      "name": "Jev Account Filter",
+      "repo": "caiweihan/jev-account-filter",
+      "site": null,
+      "description": "Screens video-platform accounts with Jev Noul title ranking followed by a multimodal account-category Choice over selected thumbnails and profile metadata.",
+      "category": "apps",
+      "language": "Python",
+      "stars": 0,
+      "added": "2026-10-17"
+    },
+    {
       "name": "eve",
       "repo": "vercel/eve",
       "site": "https://eve.dev",
