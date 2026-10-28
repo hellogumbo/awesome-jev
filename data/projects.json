@@ -19675,6 +19675,16 @@
       "added": "2026-10-28",
       "created": "2026-10-28",
       "pushed": "2026-10-28"
+    },
+    {
+      "name": "s1kit",
+      "repo": "Eliot5566/s1kit",
+      "site": null,
+      "description": "Test Jev and other /v1/systemone decision models side by side on your own labelled cases, pick per-question confidence cutoffs for a target precision, and route cheapest-first.",
+      "category": "research",
+      "language": "Python",
+      "stars": 0,
+      "added": "2026-10-28"
     }
   ]
 }
