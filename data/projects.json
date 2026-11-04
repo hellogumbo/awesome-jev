@@ -20160,6 +20160,16 @@
       "added": "2026-11-04",
       "created": "2026-09-28",
       "pushed": "2026-11-02"
+    },
+    {
+      "name": "VerdictAD",
+      "repo": "sgstq0811/VerdictAD-Jev-AD",
+      "site": "https://arxiv.org/abs/2611.02654",
+      "description": "Training-free few-shot industrial anomaly detection that asks the open Jev-style model Clef-Flash 9B Noul questions about a query image and its local windows against a few normal references, then reweights an existing detector's image score and anomaly map.",
+      "category": "research",
+      "language": "Python",
+      "stars": 0,
+      "added": "2026-11-05"
     }
   ]
 }
