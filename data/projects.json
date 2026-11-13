@@ -20677,6 +20677,18 @@
       "added": "2026-11-13",
       "created": "2026-09-19",
       "pushed": "2026-11-12"
+    },
+    {
+      "name": "Buddy Jev action",
+      "repo": null,
+      "site": "https://buddy.works/docs/integrations/typesafe",
+      "url": null,
+      "description": "Buddy pipeline action that asks Jev one typed question per run (score, choice, or yes/no) and stores the answer in variables that later actions branch on.",
+      "category": "integrations",
+      "language": null,
+      "stars": 0,
+      "added": "2026-11-13",
+      "post": "https://buddy.works/blog/jev-action-typed-decisions-in-buddy-pipelines"
     }
   ]
 }
